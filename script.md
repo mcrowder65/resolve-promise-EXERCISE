@@ -14,4 +14,7 @@ For our purposes, use "Golden Retriever" as the breed
 You may be tempted to look at the implementation of utilities, but please don't, it won't provide any value to you
 at this point in the course.
 
+You can access this exercise by going to the codesandbox link in the notes section below, keep in mind that since this is
+all in nodejs, you don't need to worry about the browser in the sandbox.
+
 Good luck!
